@@ -6,4 +6,5 @@
 [Email Regex RFC2822](https://gist.github.com/jeffreyjackson/aa53f96232878017d415)<br>
 [Text Glow](https://gist.github.com/jeffreyjackson/c9fa7c83e5258d2e318b)<br>
 [Merging 2 NSArrays & Duplicates](https://gist.github.com/jeffreyjackson/bfbc8f68e4cb1a201fd9)<br>
+[Prevent Screen Dimming](https://gist.github.com/jeffreyjackson/78785349ed6456a699ad)<br>
 [UUID Regex](https://gist.github.com/jeffreyjackson/ab8a0e7b31d5a2727053)<br>
