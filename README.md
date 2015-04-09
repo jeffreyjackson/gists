@@ -1,6 +1,8 @@
 # gists
 ## a collection of useful gists
 
+Feel free to contribute: [issues](https://github.com/jeffreyjackson/gists/issues), [pull requests](https://github.com/jeffreyjackson/gists/pulls), or [Twitter](https://twitter.com/_jeffreyjackson).
+
 ### Objective-C
 [Autoincrement Xcode Build](https://gist.github.com/jeffreyjackson/915ecb98a9e9090ff71e)<br>
 [Email Regex RFC2822](https://gist.github.com/jeffreyjackson/aa53f96232878017d415)<br>
