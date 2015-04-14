@@ -10,6 +10,9 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/gists/issues
 [Prevent Screen Dimming](https://gist.github.com/jeffreyjackson/78785349ed6456a699ad)<br>
 [UUID Regex](https://gist.github.com/jeffreyjackson/ab8a0e7b31d5a2727053)<br>
 
+### RethinkDB (ReQL)
+[compute sample standard deviation, coefficient of variation and other stats over large datasets in RethinkDB using Map-Reduce in ReQL](https://gist.github.com/elifarley/1793dd71e8938d198aa7)
+
 ### Shell
 [resign .ipa with new CFBundleIdentifier and certificate](https://gist.github.com/jeffreyjackson/6243201485c8cbced707)
 
