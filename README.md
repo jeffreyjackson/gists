@@ -14,7 +14,8 @@ Feel free to contribute: [issues](https://github.com/jeffreyjackson/gists/issues
 [compute sample standard deviation, coefficient of variation and other stats over large datasets in RethinkDB using Map-Reduce in ReQL](https://gist.github.com/elifarley/1793dd71e8938d198aa7)
 
 ### Shell
-[resign .ipa with new CFBundleIdentifier and certificate](https://gist.github.com/jeffreyjackson/6243201485c8cbced707)
+[resign .ipa with new CFBundleIdentifier and certificate](https://gist.github.com/jeffreyjackson/6243201485c8cbced707)<br>
+[Yosemite DNS Cache Flush](https://gist.github.com/jeffreyjackson/b13e443f2d6c0381abd9)
 
 ### Xcode
 [Autoincrement Xcode Build](https://gist.github.com/jeffreyjackson/915ecb98a9e9090ff71e)<br>
